@@ -1,4 +1,4 @@
-# fatorial
+# Fatorial
 
 Função Fatorial desenvolvido em C#
 
